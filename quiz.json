@@ -1,0 +1,101 @@
+[
+  {
+    "question": "What is Rust?",
+    "answers": ["A programming language", "A type of metal", "A game engine"],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which of these is not a programming paradigm?",
+    "answers": ["Object-Oriented", "Functional", "Alphabetical"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What does API stand for?",
+    "answers": [
+      "Application Programming Interface",
+      "Automated Program Instruction",
+      "Advanced Programming Implementation"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which data structure uses LIFO?",
+    "answers": ["Queue", "Stack", "Linked List"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the time complexity of binary search?",
+    "answers": ["O(n)", "O(log n)", "O(n^2)"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which language is known for its use in AI and machine learning?",
+    "answers": ["Java", "C++", "Python"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What does SQL stand for?",
+    "answers": [
+      "Structured Query Language",
+      "Simple Question Language",
+      "System Quality Language"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which of these is not a version control system?",
+    "answers": ["Git", "SVN", "Java"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the purpose of the 'static' keyword in many programming languages?",
+    "answers": [
+      "To make a variable unchangeable",
+      "To allocate memory at compile time",
+      "To create a new instance of a class"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which sorting algorithm has the best average time complexity?",
+    "answers": ["Bubble Sort", "Quick Sort", "Selection Sort"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the main difference between an array and a linked list?",
+    "answers": [
+      "Arrays are faster",
+      "Linked lists use contiguous memory",
+      "Arrays have a fixed size"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which of these is not a common HTTP method?",
+    "answers": ["GET", "POST", "FETCH"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What does OOP stand for?",
+    "answers": [
+      "Object Oriented Programming",
+      "Ordered Operating Procedure",
+      "Online Object Processing"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which of these is not a JavaScript framework or library?",
+    "answers": ["React", "Angular", "Swift"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the purpose of a constructor in OOP?",
+    "answers": [
+      "To destroy an object",
+      "To initialize an object",
+      "To copy an object"
+    ],
+    "correct_answer": 1
+  }
+]
